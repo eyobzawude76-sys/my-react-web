@@ -1,0 +1,15 @@
+body{
+    padding-top: 80px;
+}
+.navbar-nav.navLink{
+    font-weight: 500;
+    transition: 0.3s;
+
+}
+.navbar-nav.navLink:hover{
+    color: red important;
+    transform: translateY(-2px);
+}
+.main-content{
+    padding-top: 40px;
+}
